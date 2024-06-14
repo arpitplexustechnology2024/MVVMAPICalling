@@ -1,0 +1,6 @@
+framework module Pods_MVVMAPICallingTests {
+  umbrella header "Pods-MVVMAPICallingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
